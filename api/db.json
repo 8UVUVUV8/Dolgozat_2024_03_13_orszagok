@@ -1,0 +1,172 @@
+{
+    "orszagok": [
+        {
+            "id": 1,
+            "nev": "Egyesült Államok",
+            "terulet": 9833510,
+            "nepesseg": 331000000,
+            "fovaros": "Washington D.C."
+        },
+        {
+            "id": 2,
+            "nev": "Kína",
+            "terulet": 9596961,
+            "nepesseg": 1444000000,
+            "fovaros": "Peking"
+        },
+        {
+            "id": 3,
+            "nev": "India",
+            "terulet": 3287263,
+            "nepesseg": 1393000000,
+            "fovaros": "Újdelhi"
+        },
+        {
+            "id": 4,
+            "nev": "Brazília",
+            "terulet": 8515767,
+            "nepesseg": 213300000,
+            "fovaros": "Brasília"
+        },
+        {
+            "id": 5,
+            "nev": "Oroszország",
+            "terulet": 17098242,
+            "nepesseg": 146700000,
+            "fovaros": "Moszkva"
+        },
+        {
+            "id": 6,
+            "nev": "Japán",
+            "terulet": 377975,
+            "nepesseg": 126500000,
+            "fovaros": "Tokió"
+        },
+        {
+            "id": 7,
+            "nev": "Nigéria",
+            "terulet": 923768,
+            "nepesseg": 206140000,
+            "fovaros": "Abuja"
+        },
+        {
+            "id": 8,
+            "nev": "Indonézia",
+            "terulet": 1904569,
+            "nepesseg": 273500000,
+            "fovaros": "Jakarta"
+        },
+        {
+            "id": 9,
+            "nev": "Pakisztán",
+            "terulet": 881913,
+            "nepesseg": 233500000,
+            "fovaros": "Iszlámábád"
+        },
+        {
+            "id": 10,
+            "nev": "Banglades",
+            "terulet": 147570,
+            "nepesseg": 164700000,
+            "fovaros": "Dháka"
+        },
+        {
+            "id": 11,
+            "nev": "Mexikó",
+            "terulet": 1967138,
+            "nepesseg": 128900000,
+            "fovaros": "Mexikóváros"
+        },
+        {
+            "id": 12,
+            "nev": "Egyiptom",
+            "terulet": 1002450,
+            "nepesseg": 104800000,
+            "fovaros": "Kairó"
+        },
+        {
+            "id": 13,
+            "nev": "Vietnám",
+            "terulet": 331212,
+            "nepesseg": 97340000,
+            "fovaros": "Hanoi"
+        },
+        {
+            "id": 14,
+            "nev": "Etiópia",
+            "terulet": 1104300,
+            "nepesseg": 114900000,
+            "fovaros": "Addisz-Abeba"
+        },
+        {
+            "id": 15,
+            "nev": "Fülöp-szigetek",
+            "terulet": 342353,
+            "nepesseg": 113700000,
+            "fovaros": "Manila"
+        },
+        {
+            "id": 16,
+            "nev": "Törökország",
+            "terulet": 783356,
+            "nepesseg": 84339000,
+            "fovaros": "Ankara"
+        },
+        {
+            "id": 17,
+            "nev": "Németország",
+            "terulet": 357022,
+            "nepesseg": 83166000,
+            "fovaros": "Berlin"
+        },
+        {
+            "id": 18,
+            "nev": "Irán",
+            "terulet": 1648195,
+            "nepesseg": 83993000,
+            "fovaros": "Teherán"
+        },
+        {
+            "id": 19,
+            "nev": "Dél-Korea",
+            "terulet": 100210,
+            "nepesseg": 51640000,
+            "fovaros": "Szöul"
+        },
+        {
+            "id": 20,
+            "nev": "Tanzánia",
+            "terulet": 945087,
+            "nepesseg": 60913000,
+            "fovaros": "Dodoma"
+        },
+        {
+            "id": 21,
+            "nev": "Olaszország",
+            "terulet": 301340,
+            "nepesseg": 60388000,
+            "fovaros": "Róma"
+        },
+        {
+            "id": 22,
+            "nev": "Mianmar",
+            "terulet": 676578,
+            "nepesseg": 54000000,
+            "fovaros": "Nájpyidó"
+        },
+        {
+            "id": 23,
+            "nev": "Kolumbia",
+            "terulet": 1141748,
+            "nepesseg": 50965000,
+            "fovaros": "Bogotá"
+        },
+        {
+            "id": 24,
+            "nev": "Kenya",
+            "terulet": 580367,
+            "nepesseg": 53771000,
+            "fovaros": "Nairobi"
+        }
+    ]
+}
